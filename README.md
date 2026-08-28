@@ -1,8 +1,5 @@
 ## OLAA!! Welcome to oKey lab
-<p align="center">
-  <br>
-  <img src="gif/From Klickpin.com- From beginner to obsessed Pin these viral easy dinner ideas youll want to recreate this weekend using simple ideas you can actu.gif" alt="luffy">
-</p>
+
 <!--
 **elkyn-sia/elkyn-sia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +19,11 @@ Here are some ideas to get you started:
 <p align="center">
   <br>
   <img src="gif/From Klickpin.com- City Break Itinerary Ideas That Make Everyday Better 77918-pin-id-7881368095630466.gif" alt="Luffy gomu" width="x">
+</p>
+
+<p align="center">
+  <br>
+  <img src="gif/From Klickpin.com- From beginner to obsessed Pin these viral easy dinner ideas youll want to recreate this weekend using simple ideas you can actu.gif" alt="luffy">
 </p>
 
 <picture data-importer="pacman">
